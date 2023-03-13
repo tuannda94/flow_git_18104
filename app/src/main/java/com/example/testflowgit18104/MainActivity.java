@@ -13,4 +13,10 @@ public class MainActivity extends AppCompatActivity {
     }
 
 //    Thực hiện chức năng của tuannda3
+
+
+//    Tuannda3 thuc hien chuc nang abc
+
+//    Chức năng Y của tuannda3
+
 }
